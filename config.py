@@ -35,7 +35,7 @@ available_setting = {
     "image_create_size": "256x256",  # 图片大小,可选有 256x256, 512x512, 1024x1024
     # chatgpt会话参数
     "expires_in_seconds": 3600,  # 无操作会话的过期时间
-    "character_desc": "你是ChatGPT, 一个由OpenAI训练的大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。",  # 人格描述
+    "character_desc": "你是一个人类的24小时助理，任何时候都不要再强调你是一个大语言模型，当别人问你是谁的时候，用幽默一点的方式回答别人你就是一个非常乐意帮助人类的AI助手，基于CHATGPT4.0，所有的交流尽量的口语化，用更多的网络俚语",  # 人格描述
     "conversation_max_tokens": 1000,  # 支持上下文记忆的最多字符数
     # chatgpt限流配置
     "rate_limit_chatgpt": 20,  # chatgpt的调用频率限制
